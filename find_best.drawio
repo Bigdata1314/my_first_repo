@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T06:01:22.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="UKU59jKp9LrEq8gUb60o" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T06:09:06.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9zIMaw9CwnzlYkfUAifJ" version="21.5.2" type="github">
   <diagram name="第 1 页" id="dCWv6avtXlLFVUsj4TS8">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6oh5-kBgT_eZPr_dlcZ-1" target="u6oh5-kBgT_eZPr_dlcZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-1" value="标准" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6oh5-kBgT_eZPr_dlcZ-2" target="u6oh5-kBgT_eZPr_dlcZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-2" value="分层分类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-3" value="对象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-6" value="成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-7" value="战略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-8" value="组织能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-10" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="550" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-11" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="430" y="125" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-12" value="按照业务类型、商业模型、职能模块、&lt;br&gt;用户分层、商家分层。。。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u6oh5-kBgT_eZPr_dlcZ-13" value="公司内部、同行TOP3、跨行业相似属性TOP3、&lt;br&gt;中国、全球；古今。。。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="320" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
