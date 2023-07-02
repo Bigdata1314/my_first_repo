@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T05:47:26.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="70pAM5IdnZMYf02UVyQh" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T05:54:18.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4EvBI4RmK-mBF5nhAwo5" version="21.5.2" type="github">
   <diagram name="第 1 页" id="BWQJjT6N3ljU_v5gKBc0">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gbRoodXmHGTZKxAQx7Tw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gbRoodXmHGTZKxAQx7Tw-1" target="gbRoodXmHGTZKxAQx7Tw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gbRoodXmHGTZKxAQx7Tw-1" value="看清自己" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gbRoodXmHGTZKxAQx7Tw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gbRoodXmHGTZKxAQx7Tw-2" target="gbRoodXmHGTZKxAQx7Tw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gbRoodXmHGTZKxAQx7Tw-2" value="找对&lt;br&gt;最佳实践" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gbRoodXmHGTZKxAQx7Tw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gbRoodXmHGTZKxAQx7Tw-3" target="gbRoodXmHGTZKxAQx7Tw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gbRoodXmHGTZKxAQx7Tw-3" value="搞透&lt;br&gt;最佳实践" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gbRoodXmHGTZKxAQx7Tw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gbRoodXmHGTZKxAQx7Tw-4" target="gbRoodXmHGTZKxAQx7Tw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gbRoodXmHGTZKxAQx7Tw-4" value="推进对标" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gbRoodXmHGTZKxAQx7Tw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gbRoodXmHGTZKxAQx7Tw-5" target="gbRoodXmHGTZKxAQx7Tw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gbRoodXmHGTZKxAQx7Tw-5" value="检核闭环" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gbRoodXmHGTZKxAQx7Tw-6" value="复盘内化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
