@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T06:30:05.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="qO9znBw5cK_uGIACLGXg" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T06:57:55.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wrd6htSa7ujnMdy6-7nA" version="21.5.2" type="github">
   <diagram name="第 1 页" id="KxxcKelS9_FaGgp3jtVJ">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c3ZSyC48JpNikU88Roam-1" value="步骤1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-2" value="步骤2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-3" value="步骤3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3ZSyC48JpNikU88Roam-4" target="c3ZSyC48JpNikU88Roam-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-4" value="明确研究范围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3ZSyC48JpNikU88Roam-5" target="c3ZSyC48JpNikU88Roam-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-5" value="分解研究问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-6" value="信息输入与整理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-10" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="660" y="170" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="550" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-12" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.55;dx=26.5;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="275" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=23;notch=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="535" y="180" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=23;notch=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="375" y="180" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=23;notch=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="215" y="180" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-20" value="SO WHAT？（不断假设、证明/推翻、再假设）；不断逼近Fact" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-21" value="&lt;b&gt;SMART&lt;/b&gt;&lt;br&gt;&lt;br&gt;* 从零思考：为什么？&lt;br&gt;* 客户：需要什么？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-22" value="&lt;b&gt;逻辑树&lt;/b&gt;&lt;br&gt;&lt;br&gt;* 方法：议题树、假设树&lt;br&gt;* 原则：MECE、二八原则" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="330" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c3ZSyC48JpNikU88Roam-23" value="&lt;b&gt;信息质量决定思考质量&lt;/b&gt;&lt;br&gt;&lt;br&gt;* 方法：从问题出发找信息&lt;br&gt;* 原则：多样性红利&lt;br&gt;* 渠道：一手信息、二手信息" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="330" width="160" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
